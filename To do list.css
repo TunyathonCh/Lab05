@@ -1,0 +1,53 @@
+body{
+    background-color: 	#FFA07A !important;
+}
+.container{
+    max-width: fit-content !important;
+    margin-top: 50px;
+    
+}
+.border1{
+    border: solid thin black;
+    padding: 5px;
+    width: 250px;
+    background-color: #6495ED;
+    color: white;
+    border-radius: 5px;
+}
+h1{
+    margin-right: 50px;
+    font-size: 20px !important;
+    margin: auto !important;
+}
+.border2{
+    width: 250px;
+    padding: 5px;
+    border-radius: 5px;
+}
+.myList{
+    width: 250px;
+    padding: 5px;
+    background-color: white;
+}
+ul li {
+    position: relative;
+    padding: 5px;
+    list-style-type: none;
+    background: #FFFACD;
+    font-size: 15px;
+    width: 250px;
+    margin-left: -40px;
+    border-radius: 2px;
+
+}
+.strikethrough{
+    color : gray;
+    text-decoration: line-through;
+}
+p{
+    margin-bottom: 0 !important;
+}
+.divstyle{
+    float :left;
+    margin-right: 5px;
+}
